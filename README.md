@@ -1,6 +1,6 @@
 # AutomaticParking
 
-Code for Abacus 21' Hackathon
+Code for Abacus 21' Hackathon (3rd prize)
 
 Team - Dummy Coders
 
